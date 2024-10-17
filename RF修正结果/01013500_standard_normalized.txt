@@ -1,0 +1,3 @@
+Mean Squared Error (MSE): 0.08323722023095399
+R2 Score: 0.8198964684648612
+Training Time: 717.38 seconds
